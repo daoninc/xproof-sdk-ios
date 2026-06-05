@@ -29,9 +29,7 @@ let package = Package(
         .library(
             name: "DaonXProofDocumentFaceProcessor",
             targets: [
-                "DaonXProofDocumentFaceProcessor",
-                "DaonFaceSDK",
-                "DaonFaceQuality"
+                "DaonXProofDocumentFaceProcessor"
             ]
         ),
         .library(
