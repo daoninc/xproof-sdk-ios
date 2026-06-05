@@ -1,2 +1,4 @@
-# xproof-sdk-ios
-xProof Document SDK
+# Daon xProof Document SDK
+
+The xProof Document SDK is a comprehensive and modular software development kit designed for high-quality document image capture and processing within mobile applications. Built with flexibility and performance in mind, it supports both iOS and Android platforms, enabling developers to implement advanced document scanning, recognition, and data extraction features with minimal effort.
+
