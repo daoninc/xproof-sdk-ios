@@ -56,58 +56,58 @@ let package = Package(
     targets: [
          .binaryTarget(
             name: "CaptureCommon",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/CaptureCommon.xcframework.zip",
-            checksum: "df48b35b949e467c4a75342478833031d3a6f7d9a2836cc38a64c1f4cb76f839"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/CaptureCommon.xcframework.zip",
+            checksum: "b4d73bed1cf9e37f0f5c2691354689a5a5672c23210ab279dcaf18f804bad98c"
          ),
          .binaryTarget(
             name: "DaonIDCapture",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/DaonIDCapture.xcframework.zip",
-            checksum: "19a79dbaf6677e0648f1fe56996205f55dce96154e8451ba42d55850f9c9b5cb"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/DaonIDCapture.xcframework.zip",
+            checksum: "c9192099b89ee6699c7735bb2fc4aa8df2f7888633761485f82cb8fded0ad88b"
          ),
          .binaryTarget(
             name: "DaonXProofDocumentFaceProcessor",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/DaonXProofDocumentFaceProcessor.xcframework.zip",
-            checksum: "30fba91bde4280ca9eaa873141b7f77b848dbfafc55898dd1bdbfafa94c58567"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/DaonXProofDocumentFaceProcessor.xcframework.zip",
+            checksum: "865b0b4970238482eb74d6e8cdc07d24ebc854226704c37367439bdeca03c36d"
          ),
          .binaryTarget(
             name: "DaonXProofDocumentIADFrameProvider",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/DaonXProofDocumentIADFrameProvider.xcframework.zip",
-            checksum: "835ac889144c78a38eb039ec6a5c0cd31293e876be99827b8a89b3440eef5f62"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/DaonXProofDocumentIADFrameProvider.xcframework.zip",
+            checksum: "c46db2c0896e42c2f806182b0e44a730ac2bef4b1cce45382667ab5c0f4d24e3"
          ),
          .binaryTarget(
             name: "DaonXProofDocumentIDCaptureProcessor",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/DaonXProofDocumentIDCaptureProcessor.xcframework.zip",
-            checksum: "7bda9d92f5e4eaa376eb98c35db8862bf29421d359fca54d41bc71a75687c708"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/DaonXProofDocumentIDCaptureProcessor.xcframework.zip",
+            checksum: "6fce2d73dda6629ad6828ef637a4432e5fb8e82d1c7160fc79b20200b4406511"
          ),
          .binaryTarget(
             name: "DaonXProofDocumentMRZProcessor",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/DaonXProofDocumentMRZProcessor.xcframework.zip",
-            checksum: "f022a5e26d2e331688daced6e45ff85f9f79aba6e15e9a432d4c906c6eb315c4"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/DaonXProofDocumentMRZProcessor.xcframework.zip",
+            checksum: "3c11ea51cb17225108267b354b7a1915f1f29fd6ebb02102951c549f2237c40e"
          ),
          .binaryTarget(
             name: "DaonXProofDocumentPDF417Processor",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/DaonXProofDocumentPDF417Processor.xcframework.zip",
-            checksum: "99606d608eb967d7f370d94a6a7f0f9eb28b17ba26994be6ca556268bc8ce144"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/DaonXProofDocumentPDF417Processor.xcframework.zip",
+            checksum: "2c798663a01cca76690245a21c9f1f3737d260f722936f3c8b04dfc135d64716"
          ),
          .binaryTarget(
             name: "DaonXProofDocumentSDK",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/DaonXProofDocumentSDK.xcframework.zip",
-            checksum: "be95aa5dadd75ccc6ada058b9f136861149869398017121f83f6d024568191e7"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/DaonXProofDocumentSDK.xcframework.zip",
+            checksum: "98e689e0722a4f354905bd456f1947cdcd0bcc17d2cf42db8cc0b09dcac370ab"
          ),
          .binaryTarget(
             name: "DocSdkMobile",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/DocSdkMobile.xcframework.zip",
-            checksum: "9d33bf62a466ca7235f0d3ff1c7d61e0fdeab2c84818f8244d5ff7b9eb5325e8"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/DocSdkMobile.xcframework.zip",
+            checksum: "0d3b423ca565bd77a40c7cc9656b356e3f0ad57ebbad93a35b43071bdaff80f0"
          ),
          .binaryTarget(
             name: "IADCommon",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/IADCommon.xcframework.zip",
-            checksum: "4ceb34c06a02f5cbd114705952c82322998ebdb85b43d7734ff83194fec5409f"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/IADCommon.xcframework.zip",
+            checksum: "74177cc553e9557185f97b8a4cf2bff0a9168ab7c400960e08cd476993093f25"
          ),
          .binaryTarget(
             name: "IDLiveDocCaptureIAD",
-            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.10/IDLiveDocCaptureIAD.xcframework.zip",
-            checksum: "5f03fc4fdaa7484f155e40b6a44d07ece49bfae6a9bc2032423a1815d24a79bd"
+            url: "https://github.com/daoninc/xproof-sdk-ios/releases/download/2.7.11/IDLiveDocCaptureIAD.xcframework.zip",
+            checksum: "0ad59ebbca075f201ba4fe171ed9412c6f9bc3c17eeeafbba27315e0fc28ac34"
          ),
          .target(
             name: "DaonXProofDocumentFaceProcessorProduct",
